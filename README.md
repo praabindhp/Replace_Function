@@ -7,12 +7,12 @@ The Operations Illustrated :
 
 	1. Find
   
-  2. Replace
+  	2. Replace
 	
 The User Will Be Prompted To :
 	
 	1. Enter Your Content
   
-  2. Enter The Word To Be Found In Your Content
+  	2. Enter The Word To Be Found In Your Content
   
-  3. Enter The Word To Be Replaced In Your Content
+	3. Enter The Word To Be Replaced In Your Content
