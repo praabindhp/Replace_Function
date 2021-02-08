@@ -13,7 +13,7 @@ Step-4: Stop
 Task/Program - 2 :: Assignment
 
 Step-1: Start
-Step-2: Create The First List l1, Which Stores The Name In Content
+Step-2: Create The First List l1, Which Stores The Name In Content Entered By The User
 Step-3: Create The Second List l2, Which Stores The Encopted Names
 Step-4: Loop The Line in CSV_Reader
 	Step-4.1: Store The Line[6] in s1
